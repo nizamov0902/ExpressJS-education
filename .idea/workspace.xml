@@ -6,14 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4514d80d-0650-4bab-a77f-cb3f236410cb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.env" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devcamper_project_resources/_data/bootcamps.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/bootcamps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devcamper_project_resources/_data/courses.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/courses.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devcamper_project_resources/_data/reviews.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/reviews.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devcamper_project_resources/_data/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/_data/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Bootcamps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +79,7 @@
       <workItem from="1673024741678" duration="2253000" />
       <workItem from="1673027013873" duration="806000" />
       <workItem from="1673249107931" duration="15032000" />
-      <workItem from="1673335830010" duration="9158000" />
+      <workItem from="1673335830010" duration="12140000" />
     </task>
     <servers />
   </component>
